@@ -1,4 +1,4 @@
-# Multi-Table Queries and Database Helpers
+# Multi-Table Queries and Database Helpers Andrew Dillon
 
 ## Topics
 
